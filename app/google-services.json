@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818889469042",
+    "project_id": "chatbasedsystem",
+    "storage_bucket": "chatbasedsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818889469042:android:6e07898cc6b216343ae6eb",
+        "android_client_info": {
+          "package_name": "sh.practice.chatbasedsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818889469042-nbap29t8rfhldjqst7v1vtrkhah9fv79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCHkG2M9EFTrxWduEE70wNs8bOvbmezUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818889469042-nbap29t8rfhldjqst7v1vtrkhah9fv79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
